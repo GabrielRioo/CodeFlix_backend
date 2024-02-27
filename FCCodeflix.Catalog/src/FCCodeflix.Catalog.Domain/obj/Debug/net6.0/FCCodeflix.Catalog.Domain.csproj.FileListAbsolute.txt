@@ -1,0 +1,12 @@
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Domain\bin\Debug\net6.0\FCCodeflix.Catalog.Domain.deps.json
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Domain\bin\Debug\net6.0\FCCodeflix.Catalog.Domain.dll
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Domain\bin\Debug\net6.0\FCCodeflix.Catalog.Domain.pdb
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Domain\obj\Debug\net6.0\FCCodeflix.Catalog.Domain.csproj.AssemblyReference.cache
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Domain\obj\Debug\net6.0\FCCodeflix.Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Domain\obj\Debug\net6.0\FCCodeflix.Catalog.Domain.AssemblyInfoInputs.cache
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Domain\obj\Debug\net6.0\FCCodeflix.Catalog.Domain.AssemblyInfo.cs
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Domain\obj\Debug\net6.0\FCCodeflix.Catalog.Domain.csproj.CoreCompileInputs.cache
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Domain\obj\Debug\net6.0\FCCodeflix.Catalog.Domain.dll
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Domain\obj\Debug\net6.0\refint\FCCodeflix.Catalog.Domain.dll
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Domain\obj\Debug\net6.0\FCCodeflix.Catalog.Domain.pdb
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Domain\obj\Debug\net6.0\ref\FCCodeflix.Catalog.Domain.dll
