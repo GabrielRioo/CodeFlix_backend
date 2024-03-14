@@ -4,6 +4,71 @@
     "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\tests\\FCCodeflix.Catalog.UnitTests\\FCCodeflix.Catalog.UnitTests.csproj": {}
   },
   "projects": {
+    "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\src\\FCCodeflix.Catalog.Application\\FCCodeflix.Catalog.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\src\\FCCodeflix.Catalog.Application\\FCCodeflix.Catalog.Application.csproj",
+        "projectName": "FCCodeflix.Catalog.Application",
+        "projectPath": "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\src\\FCCodeflix.Catalog.Application\\FCCodeflix.Catalog.Application.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\src\\FCCodeflix.Catalog.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://nuget.grapecity.com/nuget": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\src\\FCCodeflix.Catalog.Domain\\FCCodeflix.Catalog.Domain.csproj": {
+                "projectPath": "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\src\\FCCodeflix.Catalog.Domain\\FCCodeflix.Catalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\src\\FCCodeflix.Catalog.Domain\\FCCodeflix.Catalog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -95,6 +160,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\src\\FCCodeflix.Catalog.Application\\FCCodeflix.Catalog.Application.csproj": {
+                "projectPath": "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\src\\FCCodeflix.Catalog.Application\\FCCodeflix.Catalog.Application.csproj"
+              },
               "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\src\\FCCodeflix.Catalog.Domain\\FCCodeflix.Catalog.Domain.csproj": {
                 "projectPath": "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\src\\FCCodeflix.Catalog.Domain\\FCCodeflix.Catalog.Domain.csproj"
               }
@@ -122,6 +190,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

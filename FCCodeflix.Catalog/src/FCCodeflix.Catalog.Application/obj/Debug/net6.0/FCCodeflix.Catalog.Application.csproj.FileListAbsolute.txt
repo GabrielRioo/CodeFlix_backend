@@ -1,0 +1,15 @@
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\bin\Debug\net6.0\FCCodeflix.Catalog.Application.deps.json
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\bin\Debug\net6.0\FCCodeflix.Catalog.Application.dll
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\bin\Debug\net6.0\FCCodeflix.Catalog.Application.pdb
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\bin\Debug\net6.0\FCCodeflix.Catalog.Domain.dll
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\bin\Debug\net6.0\FCCodeflix.Catalog.Domain.pdb
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\obj\Debug\net6.0\FCCodeflix.Catalog.Application.csproj.AssemblyReference.cache
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\obj\Debug\net6.0\FCCodeflix.Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\obj\Debug\net6.0\FCCodeflix.Catalog.Application.AssemblyInfoInputs.cache
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\obj\Debug\net6.0\FCCodeflix.Catalog.Application.AssemblyInfo.cs
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\obj\Debug\net6.0\FCCodeflix.Catalog.Application.csproj.CoreCompileInputs.cache
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\obj\Debug\net6.0\FCCodeflix.Catalog.Application.csproj.CopyComplete
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\obj\Debug\net6.0\FCCodeflix.Catalog.Application.dll
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\obj\Debug\net6.0\refint\FCCodeflix.Catalog.Application.dll
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\obj\Debug\net6.0\FCCodeflix.Catalog.Application.pdb
+E:\Gabriel\3_Estudo\2_Github\FullCycle\CodeFlix_backend\FCCodeflix.Catalog\src\FCCodeflix.Catalog.Application\obj\Debug\net6.0\ref\FCCodeflix.Catalog.Application.dll

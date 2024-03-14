@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GP12Zi500acanZqSLZYW4pV6GrxAUGu2lTTYUSublzDTaMICm2M3Hl3CrDYkzxHI2StWl2DyErc3LDppeNz3EQ==",
+  "dgSpecHash": "li/a0tFzh43he+4zVcfmcQU+VUkQTARIf1xshXK6tS58OdhTeVvhiFyULB7afR0cHkLdaMW/Cc8xM8YTGD01kQ==",
   "success": true,
   "projectFilePath": "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\tests\\FCCodeflix.Catalog.UnitTests\\FCCodeflix.Catalog.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\bogus\\35.4.0\\bogus.35.4.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
@@ -15,6 +16,7 @@
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
@@ -42,6 +44,7 @@
     "C:\\Users\\gabri\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",

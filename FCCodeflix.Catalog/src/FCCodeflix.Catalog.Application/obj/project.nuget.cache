@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FWCiLSg8D19idl+TqlpHqRBCx5jgy+pDL6cIF8RhFxAQJJqDqXbppt8GA/3wPMnMetcLbC6N4ZrUGeFhd0YV5Q==",
+  "success": true,
+  "projectFilePath": "E:\\Gabriel\\3_Estudo\\2_Github\\FullCycle\\CodeFlix_backend\\FCCodeflix.Catalog\\src\\FCCodeflix.Catalog.Application\\FCCodeflix.Catalog.Application.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.grapecity.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
